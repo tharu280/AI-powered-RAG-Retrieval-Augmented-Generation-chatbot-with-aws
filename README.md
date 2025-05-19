@@ -26,14 +26,19 @@ This project is a production-ready AI-powered chatbot built for **Green House Ca
 
 ## 📸 Screenshots
 
-### Semantic Chatbot Interface
-![Chat UI](./screenshots/chat.png)
 
-### OpenSearch Vector Index View
-![Vector Index](./screenshots/opensearch.png)
+![process steps](./screenshots/1.png)
+![process steps](./screenshots/3.png)
+![process steps](./screenshots/4.png)
+![process steps](./screenshots/5.png)
+![process steps](./screenshots/6.png)
+![process steps](./screenshots/7.png)
+![process steps](./screenshots/8.png)
+![process steps](./screenshots/9.png)
+![process steps](./screenshots/10.png)
+![process steps](./screenshots/11.png)
+![process steps](./screenshots/12.png)
 
-### Bedrock Foundation Model Setup
-![Bedrock Integration](./screenshots/bedrock.png)
 
 
 
