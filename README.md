@@ -27,6 +27,7 @@ This project is a production-ready AI-powered chatbot built for **Green House Ca
 ## 📸 Screenshots
 
 
+![process steps](./screenshots/2.png)
 ![process steps](./screenshots/1.png)
 ![process steps](./screenshots/3.png)
 ![process steps](./screenshots/4.png)
